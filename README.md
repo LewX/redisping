@@ -1,2 +1,2 @@
 # redisping
-Redis network probe tool
+Redis network diagnosis tool
